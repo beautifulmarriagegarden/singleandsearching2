@@ -968,5 +968,5 @@ p { margin-top: 0; }
   .roadmap-item::after { display: none !important; }
   .blog-grid { grid-template-columns: 1fr; }
   .row-heading { align-items: start; flex-direction: column; }
-  .hero-book {width: 380px;max-width: none;}
+  .hero-book {width: 350px;max-width: none;}
 }

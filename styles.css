@@ -707,7 +707,9 @@ p { margin-top: 0; }
 .thumb-3 { background: linear-gradient(135deg, #f2c6a7, #826b74); }
 .thumb-4 { background: linear-gradient(135deg, #c6a88d, #f4e6d6); }
 
-.blog-card-body { padding: 18px; }
+.blog-card-body { 
+    padding: 28px 18px 18px; 
+}
 
 .blog-meta {
   color: var(--rose);
